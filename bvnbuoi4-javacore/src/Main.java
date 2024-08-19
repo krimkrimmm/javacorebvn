@@ -1,5 +1,3 @@
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
-    }
-}
+//bvn: thuc hien cho nguoi sdung nhập va kích thước mảng k được hardcode
+// thuc hien tách ham(cách tách ham -> tu nghiên cứu)
+
